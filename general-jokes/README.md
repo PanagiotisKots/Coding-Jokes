@@ -18,3 +18,23 @@
 
 - 📌 *"It’s always saving up for faster performance!"*  
 - 📌 *"No interest in latency, though."*
+
+
+<br>
+
+---
+
+<br>
+
+## 🔐 **Why Did the Private Classes Break Up?**
+
+### 💔 Because they **never saw each other**! 😢🚪
+
+- 📌 *"They were just too encapsulated in their own worlds."*  
+- 📌 *"Maybe they should have become public and communicated more."*
+
+<br>
+
+---
+
+<br>
