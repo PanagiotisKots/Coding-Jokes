@@ -1,6 +1,4 @@
-# Funny Coding Jokes 🤣
-
-## 😄 Why This Repository?
+## Coding Jokes 🤣
 
 In the world of coding, humor can be the perfect way to lighten the mood during a long day of debugging. Whether you're a seasoned developer or just starting out, these jokes are sure to bring a smile to your face!(hopefully)
 
