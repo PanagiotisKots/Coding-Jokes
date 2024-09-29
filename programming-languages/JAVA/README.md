@@ -2,15 +2,14 @@
 
 ### 💔 Because they had **constant arguments**! 😤💥
 
----
+
 
 ### **Bonus Commentary**:
 
 - 📌 *"I thought they would override their issues."*  
 - 📌 *"Guess they couldn’t handle the class hierarchy!"*
 
-
-
+---
 
 ## 🔄 **Why Do Java Developers Wear Glasses?** 
 
