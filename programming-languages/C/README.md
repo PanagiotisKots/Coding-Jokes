@@ -2,9 +2,6 @@
 
 ### ✋ Because they couldn't handle all the **null terminators**! 🚫📝
 
----
-
-### **Bonus Commentary**:
 
 - 📌 *"They preferred to keep things **simple and straightforward** with characters!"*  
 - 📌 *"After all, too many nulls can lead to unexpected behavior!"*
