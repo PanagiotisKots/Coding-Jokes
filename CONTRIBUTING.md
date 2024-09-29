@@ -1,6 +1,4 @@
-# Contributing to Code Laughs
-
-Thank you for considering contributing to **Code Laughs: A Repository of Coding Jokes**! We're excited to have you join our community of humor-loving developers.
+# Contributing 
 
 ## How to Contribute
 
@@ -12,12 +10,7 @@ Thank you for considering contributing to **Code Laughs: A Repository of Coding 
 ## Guidelines
 
 - Make sure your jokes are clean and appropriate for all audiences.
-- Try to include some context or a fun fact with your joke.
 - Check for spelling and grammar to keep everything polished.
 
-## Joke of the Day
-
-**Why do programmers prefer dark mode?**  
-💻 Because light attracts bugs! 🐞
 
 Thank you for contributing, and happy coding! 😄
