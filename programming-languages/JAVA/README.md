@@ -11,7 +11,16 @@
 
 ---
 
-### 🔄 **Related Joke**:
 
-> **Why do Java developers wear glasses?**  
-> 💡 Because they don’t see sharp! 👓
+
+## 🔄 **Why Do Java Developers Wear Glasses?** 
+
+### 💡 Because they don’t **C#**! 👓
+
+---
+
+### **Bonus Commentary**:
+
+- 📌 *"Maybe they should switch to .NET for a clearer view!"*  
+- 📌 *"At least they can still read the `Exception` messages!"*
+
