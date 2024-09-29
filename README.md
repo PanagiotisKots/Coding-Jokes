@@ -13,6 +13,6 @@ We welcome contributions! If you have a joke that you think belongs here, check 
 
 ---
 
-## Join the Fun!
+## 😆 Join the Fun!
 
 Feel free to share your favorites, suggest new jokes, or just enjoy the humor.
