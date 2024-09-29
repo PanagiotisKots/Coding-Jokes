@@ -9,7 +9,10 @@
 - 📌 *"I thought they would override their issues."*  
 - 📌 *"Guess they couldn’t handle the class hierarchy!"*
 
+<br>
 ---
+<br>
+
 
 ## 🔄 **Why Do Java Developers Wear Glasses?** 
 
